@@ -1,4 +1,5 @@
 vsmweb
 ======
 
-vsmweb
+vsmweb @ dev
+vsmcoe.org
